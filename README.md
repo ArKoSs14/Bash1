@@ -14,3 +14,7 @@ Un test en **gras** et en *italique* ou les deux ***ECEDEDZ***
 3. sushi
    1. truc
    2. machin
+
+`print("salut")`
+
+[lien vers le killercoda](https://killercoda.com/emelin)
