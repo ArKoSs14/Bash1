@@ -18,3 +18,5 @@ Un test en **gras** et en *italique* ou les deux ***ECEDEDZ***
 `print("salut")`
 
 [lien vers le killercoda](https://killercoda.com/emelin)
+
+[lien vers un guide du markdown](https://www.markdownguide.org/cheat_sheet/)
