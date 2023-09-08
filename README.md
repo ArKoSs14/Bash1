@@ -33,3 +33,22 @@
 
 ### Chemin relatif
 - le chemin relatif est un chemin qui prends pour point de départ l'endroit ou l'on se situe et n'affiche pas l'intégralité du chemin
+
+## 1.5
+`/bin/` : répertoire contenant les commandes les plus indispensables
+`/usr/bin/` : commandes accessibles par tous les users
+`/sbin/` : commandes accessibles par des administrateurs uniquement
+
+### Construction d'une ligne bash
+Exemple : `mkdir -v dossier1 dossier2 dossier3`
+- `mkdir` est la commande
+- `-v` est une option
+- `dossier1,2,...` sont des arguments
+
+### Options
+- Simple tiret : on utilise qu'une lettre pour regrouper plusieurs options, c'est la version "simplifiée"
+- Double tiret : on écrit la commande complète, elle est plus longue mais plus comphrénsible
+
+Exemple :  
+-`du -sh /usr/` : Version simple car `-sh`  
+-`du --summarize --human-readable /usr/` : Version longue car `--`
