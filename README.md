@@ -52,3 +52,5 @@ Exemple : `mkdir -v dossier1 dossier2 dossier3`
 Exemple :  
 -`du -sh /usr/` : Version simple car `-sh`  
 -`du --summarize --human-readable /usr/` : Version longue car `--`
+
+## 15 septembre
