@@ -54,3 +54,5 @@ Exemple :
 -`du --summarize --human-readable /usr/` : Version longue car `--`
 
 ## 15 septembre
+
+## Mise a jour 2 octobre
